@@ -1,1 +1,2 @@
 
+sigma | 1 | Sigma\nsuper
